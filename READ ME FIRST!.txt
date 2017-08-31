@@ -1,0 +1,19 @@
+1) Just use the .sav file instead of the .yaml files -- Liquid and Gases and organic things like wheezewort plants don't save/restore very well...
+
+-OR-
+
+1) Import the .yaml files and position/attach them as per the included picture but DO NOT connect power to the Dual LOX plant.
+2) Mop up all of the spilled water as required.
+3) Vaccuum all of the gases as required.
+4) Refill dual chambers with approximately 2500 kg hydrogen
+5) Over-pressurize (use fill) the "3KW Powerplant" with about 9999999999 Oxygen
+6) Move Dupes to their new home.
+7) Connect Gas piping with Insulated Abyssalite.
+8) Connect Powerlines as required.
+9) Unpause and be AMAZED!
+
+To Do:
+1) Get rid of fridges and wheezeworts in the fridge room.   Just use Nutrient bars when you test -- they don't spoil and don't require refrigeration.
+2) Remove the Power Transformers.  I'm only using 480kw per line so these are not needed.
+3) Since latest update(?) Wheezeworts don't permantely cool Thermo Regulators anymore.   Figure out something new
+4) Spend more time with my girlfriend.

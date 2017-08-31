@@ -1,0 +1,49 @@
+name: Nutrient Bar
+info:
+  size:
+    X: 1
+    Y: 1
+  area: 1
+cells:
+- element: Oxygen
+  mass: 2897.31445
+  temperature: 276.36087
+buildings: []
+pickupables:
+- id: FieldRation
+  element: Creature
+  temperature: 287.693176
+  units: 15.0018482
+  storage: []
+  type: Pickupable
+  rottable: {}
+- id: FieldRation
+  element: Creature
+  temperature: 287.693237
+  units: 20
+  storage: []
+  type: Pickupable
+  rottable: {}
+- id: FieldRation
+  element: Creature
+  temperature: 287.713959
+  units: 20
+  storage: []
+  type: Pickupable
+  rottable: {}
+- id: FieldRation
+  element: Creature
+  temperature: 287.734283
+  units: 20
+  storage: []
+  type: Pickupable
+  rottable: {}
+- id: FieldRation
+  element: Creature
+  temperature: 287.750793
+  units: 20
+  storage: []
+  type: Pickupable
+  rottable: {}
+elementalOres: []
+otherEntities: []
